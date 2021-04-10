@@ -1,5 +1,4 @@
 # 109_2-Salesperson-risk-detection
-# NOMURA_PROJECT
 南山人壽題目_第二組 【業務員風險偵測】
 
 ### 資料與解說欄位
